@@ -82,6 +82,22 @@ a:hover {
   overflow: hidden;
 }
 
+.cv{
+  border-radius: 15px;
+  background-color:  rgba(246, 246, 246, 0.644);
+  margin-top: 100px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  padding: 15px;
+  font-family:Trebuchet MS;
+  font-weight: bold
+}
+.cv:hover{
+  background: #0d0d0d;
+  background-color: rgba(255, 178, 171, 0.473);
+}
+
 .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
