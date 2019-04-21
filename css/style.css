@@ -318,6 +318,10 @@ a:hover {
   display: none;
 }
 
+.bio{
+  border-radius: 40%;
+}
+
 .scrolltop-mf span {
   z-index: 999;
   position: fixed;
@@ -373,7 +377,6 @@ a:hover {
   overflow: hidden;
   background: #fff;
 }
-
 #preloader:before {
   content: "";
   position: fixed;
